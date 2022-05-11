@@ -12,6 +12,9 @@ body{
     height: 90vh;
 
 }
+.navbar-brand{
+    font-size: 3rem  !important;
+}
 
 .about_img{
     min-width: 100%;
