@@ -13,7 +13,12 @@ body{
 
 }
 .navbar-brand{
+    font-size: 1.6rem !important;
     font-weight: bold  !important;
+}
+.navbar-brand span{
+    font-weight: bold  !important;
+    font-size: 2rem !important;
 }
 
 .about_img{
@@ -37,7 +42,7 @@ body{
     height: 100%;
 }
 .offer_style{
-    background: #a6dcef;
+    background: #4096b5;
 }
 footer p{
     margin-bottom: 0;
