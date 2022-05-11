@@ -14,11 +14,11 @@ body{
 }
 .navbar-brand{
     font-size: 1.5rem !important;
-    font-weight: bold !important;
+    font-weight:bold !important;
 }
 .navbar-brand span{
     font-size: 2rem !important;
-    font-weight: bold  !important;
+    font-weight:bold  !important;
 
 }
 
